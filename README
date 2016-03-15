@@ -1,0 +1,5 @@
+this contains the BINDING of recyclerview
+some main points are:
+extend POJO Class by BaseObservable
+in CustomRow use the variables of POJO.
+
